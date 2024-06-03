@@ -1,16 +1,27 @@
-## Hi there 👋
+## João Vitor da C. Bitetti
+**Welcome to my github profile!**
+## ⌨️ About me: 
+I am a 19y technology studant,and my actual focus is learning new skills.
 
-<!--
-**Doki2077/Doki2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My areas of interest include:
 
-Here are some ideas to get you started:
+**- Back-end**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**- Java**
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/seijikohara/20230314/20230314150344.png" alt="Texto alternativo" width="100" height="100">
+
+**-
+AI**
+
+<img src="https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used-1024x683.jpg" alt="Texto alternativo" width="100" height="100">
+
+
+**- Machine Learning** 💻
+
+<img src="https://www.coopersystem.com.br/wp-content/uploads/2018/12/machine_learning.jpg" alt="Texto alternativo" width="100" height="100">
+
+## Conect with me 📳
+**- Email: jvbitetti0@gmail.com**
+
+**- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/joão-vitor-da-costa-bitetti-9998972b1/)**
