@@ -4,7 +4,7 @@
 #### **I am a 19y tech student,recent math enjoyer, and my current focus is learning new skills.** 
 #### Currently, my focus is on **Java, SQL,** and **ML**. I want to become a **back-end** developer."
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Doki2077&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)                                         [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Doki2077&repo=FSnakegame&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Doki2077/Snakegame)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Doki2077&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)                                         [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Doki2077&repo=Snakegame&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Doki2077/Snakegame)
 
 ##### My areas of **interest** include:
  
